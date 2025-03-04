@@ -3,3 +3,56 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header
+{
+    background-color: #ece9e9;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+
+}
+header div
+{
+    margin: 10px 0;
+    margin-left: 10px;
+}
+
+header .site-title
+{
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+}
+.button
+{
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #007bff; 
+    color: #ffffff;
+    border-radius: 5px;
+    text-align: center; 
+    margin: 5px;
+    text-decoration: none; 
+}
+
+.main-container
+{
+    width: 80%;
+    max-width: 1200px;
+    background-color: #ffffff;
+    padding: 20px;
+    box-sizing: border-box;
+}
