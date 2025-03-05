@@ -75,3 +75,64 @@ header .site-title
     margin-top: 30px;
     font-size: 20px;
 }
+
+.button-2 
+{
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #919191; 
+    color: #000000;
+    border-radius: 5px;
+    text-align: center; 
+    margin: 5px;
+    text-decoration: none;
+
+}
+
+.button-3
+{
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #30c28c; 
+    color: #000000;
+    border-radius: 5px;
+    text-align: center; 
+    margin: 5px;
+    text-decoration: none;
+}
+
+.button-4
+{
+display: inline-block;
+padding: 5px 10px;
+background-color: #d79912; 
+color: #000000;
+border-radius: 5px;
+text-align: center; 
+margin: 5px;
+text-decoration: none;
+}
+
+.button-5
+
+{display: inline-block;
+    padding: 5px 10px;
+    background-color: #d712a2; 
+    color: #000000;
+    border-radius: 5px;
+    text-align: center; 
+    margin: 5px;
+    text-decoration: none;
+}
+
+.button-6
+
+{display: inline-block;
+    padding: 5px 10px;
+    background-color: #00fa4f; 
+    color: #000000;
+    border-radius: 5px;
+    text-align: center; 
+    margin: 5px;
+    text-decoration: none;
+}
